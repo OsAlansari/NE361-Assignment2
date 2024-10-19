@@ -6,12 +6,12 @@ CorrectInput = False
 while not CorrectInput:
     try:
         a = int(input("Enter a number \"a\" to find its multiplicative inverse:\t\t\t"))
-        if a < 0:
+        if a <= 0:
             print("invalid input, the integer must be positive.\n")
             continue
 
         b = int(input("Enter a number \"b\" which is the modulos the system will work with:\t"))
-        if b < 0:
+        if b <= 0:
             print("invalid input, the integer must be positive.\n")
             continue
 
