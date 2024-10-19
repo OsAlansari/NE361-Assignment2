@@ -5,7 +5,7 @@ import math
 CorrectInput = False
 while not CorrectInput:
     try:
-        a = int(input("Enter a number \"a\" to find its multiplicative inverse:\t"))
+        a = int(input("Enter a number \"a\" to find its multiplicative inverse:\t\t\t"))
         b = int(input("Enter a number \"b\" which is the modulos the system will work with:\t"))
         if a > 0 and b > 0:
             CorrectInput = True
