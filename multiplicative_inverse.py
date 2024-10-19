@@ -47,8 +47,8 @@ while s > 0:
 
 #Checking if the multiplicative inverse exists.
 if a0 != 1:
-    print(f"\nThe multiplicative inverse of {a} does not exist in modulo {b}.")
+    print(f"\nThe multiplicative inverse of {a} does not exist in modulo {b}.\n")
 
 else:
     r = r % b
-    print(f"\nThe multiplicative inverse of {a} in modulo {b} is {r}.")
+    print(f"\nThe multiplicative inverse of {a} in modulo {b} is {r}.\n")
