@@ -41,6 +41,6 @@ This Python program is designed to calculate the **multiplicative inverse** of a
 ### Example 3:
 ![ exaple3](EXA3.png)
 
-### Example 1:
+### Example 4:
 ![ exaple4](EXA4.png)
 
