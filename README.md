@@ -13,7 +13,7 @@ Due Date: October 24th, 2024
 ---
 
 ## 1. Program Description:
-This Python program is designed to calculate the **multiplicative inverse** of a number `a` in a modular system with modulus `b`. It implements the **Extended Euclidean Algorithm** to compute the inverse. If the multiplicative inverse exists, it outputs the inverse; otherwise, it notifies the user that no inverse exists for the given inputs.
+This Python program is designed to calculate the **multiplicative inverse** of a number `a` in a modular system with modulus `b`. It implements the **Extended Euclidean Algorithm** to compute the inverse. If the multiplicative inverse exists(the two inputs are co-prime), it outputs the inverse; otherwise, it notifies the user that no inverse exists for the given inputs.
 
 ---
 
