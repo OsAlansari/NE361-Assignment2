@@ -4,8 +4,8 @@
 Multiplicative Inverse in a Modular System
 
 ### Author:
-Zainab Abdali ID: 202005678 
-Osama Alansari ID: 202103778
+Zainab Abdali ID: 202005678   
+Osama Alansari ID: 202103778  
 Course: Network Security 2 (ITNE361)  
 Instructor: Dr. Ebrahim Janahi  
 Due Date: October 24th, 2024
