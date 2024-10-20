@@ -1,3 +1,7 @@
+#Done by:
+#   Osama Alansari  -   202103778
+#   Zainab Abdali   -   202005678
+
 #This program is used to find the multiplicative inverse of a number in a modulos system.
 import math
 
